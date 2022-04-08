@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# lobster
 
-You can use the [editor on GitHub](https://github.com/lundylizard/lobster/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+lobster is an easy-to-use Discord bot to play music in any voice channel.\
+Supports **YouTube**, **SoundCloud**, **Spotify** and many more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| NO PREMIUM | NO VOTING | NO ADS | 100% FREE TO USE |
+|------------|-----------|--------|------------------|
 
-### Markdown
+## Add to your server:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**lobster works without any special roles. Just invite it to your server and start jamming.**
 
-```markdown
-Syntax highlighted code block
+| [INVITE HERE](https://discord.com/oauth2/authorize?client_id=891760327522394183&scope=bot&permissions=20007952) |
+|:---------------------------------------------------------------------------------------------------------------:|
 
-# Header 1
-## Header 2
-### Header 3
+### Permissions:
 
-- Bulleted
-- List
+| Permission                              | Usage                                                                     |
+|-----------------------------------------|---------------------------------------------------------------------------|
+| Send Messages                           | Needed to send messages                                                   |
+| Embed Links                             | Needed to embed links                                                     |
+| Read Messages                           | Needed to read messages for command execution                             |
+| Read Text Channels & See Voice Channels | Needed to see channels                                                    |
+| Connect                                 | Needed to connect to a voice channel                                      |
+| Speak                                   | Needed to play music in voice channel                                     |
+| Manage Channels                         | Needed to edit channel size upon joining (For limited voice channel size) |
+| Move Members                            | Needed to join full voice channels                                        |
 
-1. Numbered
-2. List
+## Credits:
 
-**Bold** and _Italic_ and `Code` text
+| [Bot Image](https://twitter.com/pixelforgegames/status/1350128998924226561) | [JDA](https://github.com/DV8FromTheWorld/JDA) | [LavaPlayer Fork](https://github.com/walkyst/lavaplayer-fork) | [Spotify API Wrapper](https://github.com/spotify-web-api-java/spotify-web-api-java) |
+|:---------------------------------------------------------------------------:|:---------------------------------------------:|:-------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
 
-[Link](url) and ![Image](src)
-```
+## Contact:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lundylizard/lobster/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| [Twitter](https://twitter.com/lundylizard) | [Twitch](https://twitch.tv/iundylizard) | [Discord](https://discord.gg/Hk5YP5AWhW) |
+|:------------------------------------------:|:---------------------------------------:|:----------------------------------------:|
